@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - iChannel0:
-        m_Texture: {fileID: 2800000, guid: 38d6e271ffd1a654ea71b73ac2cc5da8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3f686c8812ee08c439bdcc3390fa53cb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - iChannel1:
